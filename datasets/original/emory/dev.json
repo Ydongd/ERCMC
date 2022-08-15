@@ -1,0 +1,4950 @@
+[
+    [
+        {
+            "text": "Coffee.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Thank you.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Cappuccino.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Grazie.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "And a nice hot cider for Monica.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Aww, thank you. Uh Rach?",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Yeah?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Why does my cinamon stick have an eraser?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh! That's why. I'm sorry!",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "OK, try this salmon mousse.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Mmmm. Good.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Is it better than the other salmon mousse?",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "It's creamier.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Yeah, well, is that better?",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "My God! What happened to you?",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn? \"You are ideally suited for a career in data processing for a large multinational corporation.\"",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "That's so great! 'Cause you already know how to do that!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Here you go, maybe this'll cheer you up.",
+            "speaker": "['Monica Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well.... it is amouz-ing...",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hello? Oh, hi Wendy! Yeah, eight o'clock. What did we say? Ten dollars an hour?... OK, great. All right, I'll see you then. Bye.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Ten dollars an hour for what?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Waitressing?",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Uh-oh.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well... of course I thought of you! But... but...",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "But, but?",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Talk to me.",
+            "speaker": "['Celia']",
+            "label": "Neutral"
+        },
+        {
+            "text": "OK.... um, a weird thing happened to me on the train this morning...",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "No no no. Talk... dirty.",
+            "speaker": "['Celia']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Wha... what, here?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Yes...",
+            "speaker": "['Celia']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ah....",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Say something..... hot.",
+            "speaker": "['Celia']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Er.... um.....",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Celia']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Um... uh.... vulva.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Well?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Wow! It's huge! It's so much bigger than the cubicle. Oh, this is a cube.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Look at this!",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh! You have a window!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yes indeedy! With a beautiful view of...",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh look! That guy's peeing!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "OK, that's enough of the view. Check this out, look at this. Sit down, sit down.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "OK.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "This is great! Helen, could you come in here for a moment?",
+            "speaker": "['Chandler Bing']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Thank you Helen, that'll be all.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Last time I do that, I promise.",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "Wendy, we had a deal! Yeah, you promised! Wendy! Wendy! Wendy!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Who was that?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Wendy bailed. I have no waitress.",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh... that's too bad. Bye bye.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ten dollars an hour.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Twelve dollars an hour.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Mon. I wish I could, but I've made plans to walk around.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "You know, Rachel, when you ran out of your wedding, I was there for you. I put a roof over your head, and if that means nothing to you... twenty dollars an hour.",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Done.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "What a tool!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        },
+        {
+            "text": "You don't want to work for a guy like that.",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Yeah!",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "I know... it's just... I thought this was, you know... it.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Look, you'll get there. You're an amazing chef.",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Yeah! You know all those yummy noises? I wasn't faking.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "So, er... how did it go with Celia?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "Oh, I was unbelievable.",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "All right, Ross!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Powerful"
+        },
+        {
+            "text": "I was the James Michener of dirty talk. It was the most elaborate filth you have ever heard. I mean, there were characters, plot lines, themes, a motif... at one point there were villagers.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Whoa! And the... huh-huh?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, ahem... you know, by the time we'd finished with all the dirty talk, it was kinda late... and we were both kind of exhausted, so uh...",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "You cuddled.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah, which was nice.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "You guys wanna try and catch a late movie or something?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Maybe, but shouldn't we wait for Chandler?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, where the hell is he?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "How's this?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Eeeee!",
+            "speaker": "['Steve (drug addict)']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Sorry. How about over here?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Aaaaah!",
+            "speaker": "['Steve (drug addict)']",
+            "label": "Joyful"
+        },
+        {
+            "text": "See, that just means it's working. Does this hurt?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Steve (drug addict)']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What about this?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Aaaaahhh!!",
+            "speaker": "['Steve (drug addict)']",
+            "label": "Mad"
+        },
+        {
+            "text": "There you go!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "I can't believe you would actually say that. I would much rather be Mr. Peanut than Mr. Salty.",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "I don't know, you don't wanna mess with corn nuts. They're craaazy.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I can't believe it! He's looking right at us!",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh, that is so sick.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "I feel violated. And not in a good way.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "How can people do that?... Oh, you guys, look! Ugly Naked Guy got gravity boots!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "Wow... Wow!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Barry Farber']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I'm not crazy, right? I mean, it was never like that.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Nooo, it wasn't.",
+            "speaker": "['Barry Farber']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ooh, and it's so nice having this little sink here...",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. Bye-bye. Oh God!",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "That's what you've been working on for the past two hours?!",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey, I've been honing!",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What was with the dishes?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Look look! He's doing it again, the guy with the telescope!",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh my God! Go away! Stop looking in here!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Mad"
+        },
+        {
+            "text": "Great, now he's waving back.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Man, we gotta do something about that guy. This morning, I caught him looking into our apartment. It creeps me out! I feel like I can't do stuff!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "What kinda stuff?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "You cook naked?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, toast, oatmeal... nothing that spatters.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What are you looking at me for? I didn't know that.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "What's the matter?",
+            "speaker": "['Barry Farber']",
+            "label": "Scared"
+        },
+        {
+            "text": "Oh, it's just... Oh, Barry, this was not good.",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        },
+        {
+            "text": "No, it was. It was very very good.",
+            "speaker": "['Barry Farber']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, what about Mindy?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, way, way better than Mindy.",
+            "speaker": "['Barry Farber']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "No, not that, I mean, what about you and Mindy?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, if you want, I'll justI'll just break it off with her.",
+            "speaker": "['Barry Farber']",
+            "label": "Scared"
+        },
+        {
+            "text": "No. No-no-no-no, no. I mean, don't do that. Not, I mean not for me.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Dr. Farber, Bobby Rush is here for his adjustment.",
+            "speaker": "['Bernice']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Thanks, Bernice. Let's go away this weekend.",
+            "speaker": "['Barry Farber']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Oh, Barry..! Come on, this is all way too..",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "We can, we can go to Aruba! When I went there on what would have been our honeymoon, it was, uh... it was really nice. You would've liked it.",
+            "speaker": "['Barry Farber']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I had a bra.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey, Dr. Farber.",
+            "speaker": "['Bobby Rush']",
+            "label": "Neutral"
+        },
+        {
+            "text": "All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.",
+            "speaker": "['Barry Farber']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What?!",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I'm twelve, I'm not stupid.",
+            "speaker": "['Bobby Rush']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "Brrrrrrr!",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hell is filled with people like you.",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "He's back! The peeper's back!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "Get down!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "Get down?",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "...And boogie!",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Thanks, but I gotta go to work and get my eyes scratched out by Mindy.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Relax. Y'know, she may not even know.",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Please. I haven't heard from her in seven months, and now she calls me? I mean, what else is it about? Oh! She was my best friend, you guys! We went to camp together... she taught me how to kiss..",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "And now, y'know, I'm like... I'm like the other woman! I feel so..",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        },
+        {
+            "text": "..Naughty!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Right, I'll see you guys later...",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay, I'm gonna go to the bathroom. Will you watch my phone?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Why don't you just take it with you?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey, we haven't been on a second date, she needs to hear me pee?",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Why don't you just call her?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I can't call her, I left a message! I have some pride.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Do you?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Don't you have to pee?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "'S'why I'm dancing...",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Four letters: \"Circle or hoop\".",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ring dammit, ring!",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Thanks.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey, you know our phone's not working?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "What?!",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "I tried to call you from the coffee shop, and there was no answer.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I turned it off. Mother of God, I turned it off!",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "Just like you told her you did! ... Just pointing out the irony.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Nngghhh!!!!!!!",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "Can I use your phone? Yeah, the number for a Sidney Marks, please.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "\"Heating device.\"",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Radiator.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Five letters.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Rdtor.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, is Sidney there? Oh, this is? Sidney's a woman.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "So she's a woman! So what?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Joey!!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Yeah, my neighbor... Yeah, the brunette... She says you looked very pretty the other day in the green dress.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "The green dress? Really?",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah, she said you looked like Ingrid Bergman that day.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Nooo!",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "You okay?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Really?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah! Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        },
+        {
+            "text": "Aww...",
+            "speaker": "['Monica Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Big day.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "You know he's gay?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I just wanna clarify this: are you outing Mr. Peanut?",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Chandler?",
+            "speaker": "['Danielle']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hi. Hi.",
+            "speaker": "['#ALL#']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What are you doing here?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.",
+            "speaker": "['Danielle']",
+            "label": "Neutral"
+        },
+        {
+            "text": "...I'm, I'm okay.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Listen uh, maybe we could get together later?",
+            "speaker": "['Danielle']",
+            "label": "Neutral"
+        },
+        {
+            "text": "That sounds good. I'll call you- or you call me, whatever...",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "You got it.",
+            "speaker": "['Danielle']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "G'bye, everybody.",
+            "speaker": "['Danielle']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Bye.",
+            "speaker": "['#ALL#']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Whoo-hoo!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah, there you go!",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Second date!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "...I dunno.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "You don't know?!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "Stop saying you're not talented, you're very talented. It's just with the bird dead and all, there's very little act left. Oh, honey, give me a break, will ya? Oooh, ooh, I'll talk to you later.",
+            "speaker": "['Estelle Leonard']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well, there's my favorite client. So tell me darling, how was the audition?",
+            "speaker": "['Estelle Leonard']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, I think it went pretty well. I.. I got a callback for Thursday.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Joey, have you ever seen me ecstatic?",
+            "speaker": "['Estelle Leonard']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well, here it is.",
+            "speaker": "['Estelle Leonard']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, isn't Lori a doll?",
+            "speaker": "['Estelle Leonard']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oh, I see. Well, I'm just gonna put in a call here and we'll find out what's goin' on and straighten it out. Yeah, hi, Lori please. Hi darling. So how 'bout Joey Tribbiani for the part of the cab driver, isn't he terrific? Uh-huuuuh. Uh-huuuuh. OK, doll. Talk to you later. Yeah, you're gonna have to sleep with her.",
+            "speaker": "['Estelle Leonard']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hey.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Whoa, whoa, so I'm guessing you didn't get the part, or... uh, Italy called and said it was hungry.",
+            "speaker": "['Chandler Bing']",
+            "label": "Sad"
+        },
+        {
+            "text": "Well, the part's mine if I want it.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh my God!",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah, if I'm willing to sleep with the casting lady.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh my... God?",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Ten years I've been waiting for a break like this Chandler, ten years! I mean, Days of Our Lives. That's actually on television.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        },
+        {
+            "text": "So, what're you gonna do?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well, I guess I could sleep with her... I mean, how could I do that?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        },
+        {
+            "text": "I've never slept with someone for a part.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        },
+        {
+            "text": "Well is she...",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Sorry.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "It's alright. Is she good-looking?",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Yeah, she's totally good looking. I mean, if I met her in a bar, or something, I'd be buying her breakfast. You know, after having slept with her.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Y'know, maybe this isn't such a big deal. Y'know, I mean, the way that I see it is you get a great job and you get to have sex. Y'know, I mean, throw in a tree and a fat guy and you've got Christmas.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I just... I just don't think that I want it that way though, y'know? I mean, let's say I do make it, alright? I'm always gonna look back and wonder if it was because of my talent or because of.. y'know, the Little General.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "Didn't you used to call it the Little Major?",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Yeah, but after Denise DeMarco, I had to promote it.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "Can I get you something from the bar?",
+            "speaker": "['Waiter']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yes, I would like something. No, no thank you.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "No, no really. I.. I wouldn't feel right about it. Just some water.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "So the light went out in my refrigerator...",
+            "speaker": "['Bobby Rush']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hi.",
+            "speaker": "['Russ']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, hey.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hi.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I guess you guys heard, Rachel dumped me.",
+            "speaker": "['Russ']",
+            "label": "Sad"
+        },
+        {
+            "text": "Yeah, I'm sorry man.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, all she said was that I remind her too much of somebody. You have any idea who she's talking about?",
+            "speaker": "['Russ']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh I do, it's.... it's Bob Saget. She hates him.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh.",
+            "speaker": "['Russ']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "['Julie']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey, Julie! Hey, how are you doing?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "Hey. Watcha guys doin?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Monica's making us watch Old Yeller.",
+            "speaker": "['Richard Burke']",
+            "label": "Sad"
+        },
+        {
+            "text": "Why are you guys so upset? It's Old Yeller, it's a happy movie.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Scared"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What're you talkin' about?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "C'mon, happy family gets a dog, frontier fun.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah but Phoebs, what about the end?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "That's not the end.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What about the part where he has rabies?",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "Well, how do you find clothes that fit?",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, hey, Monica, we've got a question.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ok. Hey, why don't you ask Richard?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ok, that's Eric.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Glad to be of help. Matches.",
+            "speaker": "['Richard Burke']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I don't know.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "Ok, this could be tough.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ooh, you almost had it.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "No no, you're fine, you're fine.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Hello",
+            "speaker": "['Carol Willick']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hi.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "['Susan Bunch']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hi honey.",
+            "speaker": "['Carol Willick']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Carol Willick']",
+            "label": "Scared"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Susan Bunch']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Uhh, we know, he already did it last week.",
+            "speaker": "['Carol Willick']",
+            "label": "Joyful"
+        },
+        {
+            "text": "You can watch our tape if you want.",
+            "speaker": "['Susan Bunch']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Great. That would be fine.",
+            "speaker": "['Carol Willick', 'Susan Bunch']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Oh shout, that would have been fun.",
+            "speaker": "['Susan Bunch']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Hey.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey Phoebs, whatcha got there?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey. Where is he, where's Richard? Did you ditch him?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "So'd you guys have fun?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Your boyfriend is so cool.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Really?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Wow, he must like you the best.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "No problem. Hey Chandler",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I think they get it.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ok.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "There's the man.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "He-he-eyy.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Ok. He kept my dollar.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        }
+    ],
+    [
+        {
+            "text": "Did you like it?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "I have to say Tupolo Honey by Van Morrison.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Nooo Way! The most romantic song ever is The Way We Were.",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "What song was that, Pheebs?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hold me close, young Tony Dan-za.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hi Monica!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey Mon!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey Mon!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh my God, has she slept at all?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Mad"
+        },
+        {
+            "text": "Nope.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No, it's been three nights in a row.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "Morning.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Morning, hey, you made pancakes?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah, like there's any way I could ever do that.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Monica and Rachel had syrup, now I can get my man to cheer up. Good morning Joey.",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Good morning.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, I wish. Look, honey, you have that report to finish, and I gotta go see my lawyer.",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "I-I-I gotta go, I gotta go. Okay, not without a kiss.",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, maybe I won't kiss you, and then you'll have to stay.",
+            "speaker": "['Chandler Bing']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Kiss her! Kiss her!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I'll see you later, sweetie. Bye Joey.",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Joyful"
+        },
+        {
+            "text": "B-bye Janice. So when ya' dumpin' her.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Nope, not this time.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Come on, quite yankin' me.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I'm not yanking you.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "This is Janice.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, I know. She makes me happy.",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Okay. All right. You look me in the eye and tell me, without blinking, that you're not breaking up with her. No blinking.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I'm not breaking up with her!",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "God, look what I found in the drain.",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "What?!",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "It's some of Richard's hair! What do I do with this?",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Getting it away from me would be job one.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ooh. Oh. It looks like, like a tiny little person drowning in your cereal.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "God, what is wrong with me.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "You need to get some sleep.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I need to get some Richard.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Monica, you broke up with him for a reason.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Maybe, because you told him not to.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What are you the memory woman?",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Their not breaking up. Chandler and Janice. Their not breaking up. He didn't blink or anything.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Cute! This is Janice! You remember Janice?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        },
+        {
+            "text": "Yes, Joey, I remember, she's annoying, but you know what she's-she's his girlfriend now. I mean what can we do?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "There you go! That's the spirit I'm looking for! What can we do? Huh? All right who's first? Huh? Ross?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well I'm thinking that Chandler's our friend and Janice makes him happy, so I say we just all be adult about it and accept her.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, we'll call that Plan B. All right?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Honey, I was wondering....",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Hmm?",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Do you still have that, um, Navy uniform?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Nooo, I had to return it to the costume place.",
+            "speaker": "['Ross Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Hmm.",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "I think I have an old band uniform from high school.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "You remember not having sex in high school, right?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Ross Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Well honey, what about you?",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I mean do you have any fun, you know, fantasy type things?",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Come on you gotta have one!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Nope.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ross, you know what...",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "...if you tell me, I might do it.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Okay, umm. Did you ever see, um, Return Of The Jedi?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Do you remember the scene with, um, Jabba the Hut? Well Jabba had as, as his prisoner, um, Princess Leia.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oooh!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Princess Leia, was wearing this, um, gold bikini thing. It was pretty cool.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Hey!",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Wheel!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Of!",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Fortune! This guy is so stupid. It's Count Rushmore!!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        },
+        {
+            "text": "I say, 'I am there!' Cool! Aw, is Ross going to?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No, Janice.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Jan-ice. 'Cause I, just, I feel bad for Ross, you know, we-we always go together, we're like the three hocke-teers.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        },
+        {
+            "text": "You know, I may be way out on a limb here, but do you, do you, have a problem with Janice?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No, Yeeees. God, how do I say this. . Oh, hi, you know that girl from the Greek restaurant with the hair ?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        },
+        {
+            "text": "Ooh, that girl that I hate, eww, drives me crazy, eww, eww, oh!",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "Look, I don't hate Janice, she's-she's just a lot to take, you know.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well, there you go.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well, I'm crazy about her now. I think this could be the real thing. Capital 'R'! Capital 'T'! Don't worry, those are the right letters.",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "Look, what do you want me to say?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I want you to say that you like her!",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "I can't. It's like this chemical thing, you know. Every time she starts laughing, I just wanna pull my arm off just so that I can have something to throw at her.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        },
+        {
+            "text": "Thanks for trying. Oh, and by the way there is no Count Rushmore!",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "Yeah, then-then who's the guy that painted the faces on the mountain?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "How could you have told her?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Ross, I didn't think it would that big of a deal.",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh, she didn't think it would be that big of deal.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Okay, who are you talking to when you do that?",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Look, that was supposed to be like a private, personal thing between us.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "That's different, okay. That's like, uh 'Who dated a stripper?' or 'Who did it on the back of the Staton Island Ferry?'.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Were both of those Joey?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Not even with your best friend.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Noo!",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Hmph. So what you, you tell each other everything?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Pretty much.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Did you talk about the night of five times? Do you tell people about the night of five times?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Uh, honey, yeah that was with Carol.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I know, but it's still worth mentioning, I think.",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "Relax every muscle in your body. Listen to the plinky-plunky music. Okay, now close you eyes, and think of a happy place. Okay, tell me your happy place.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Richard's living room, drinking wine.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "All right. No, no, no, not a Richard thing, just put down the glass. And get out!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Scared"
+        },
+        {
+            "text": "I'm sorry, but that's my happy place.",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "All right, I'll try not to.",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Okay, all right, so, your in a meadow, millions of stars in the sky....",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Do you think breaking up with him was a huge mistake?",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "All right, there are no questions in the happy place. Okay, just, the warm breeze, and the moonlight flowing through the trees....",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "I'll bet he's totally over me, I'll bet he's fine.",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Okay, this isn't working. I'm still awake and now I have to pee.",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        }
+    ],
+    [
+        {
+            "text": "So, I hear, you hate me!",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Mad"
+        },
+        {
+            "text": "I, ah, I never said hate, I was very careful about that.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "A little birdie told me something about you wanting to rip your arm off and throw it at me.",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Mad"
+        },
+        {
+            "text": "And you got a 'hate' from that?! Your taking a big leap there...",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "All right, fine, fine, fine, fine, fine, We've got to do something about our little situation here Joey. So, this is my idea you and me spending some quality time together.",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Sad"
+        },
+        {
+            "text": "But what does that gonna do...",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "For Chandler!",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Okay. I'm in.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Okay. All right. This is what we're gonna call it 'Joey and Janice's DAY OF FUN!'",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Does it have to be a whole day?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Yes, because that's how long it takes to love me.",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Yeah, I know, I sleep in the next room.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "We're baack!",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What are you guys doing together?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Joey and Janice's DAY OF FUN!!!",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Really.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, yeah. We went to a Mets game, we got Chinese food, and you know, I love this woman. You have got competition buddy.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "I just came by to give you a kiss, I have to go pick up the baby, so. I'll see you later sweetheart, you too Chandler.",
+            "speaker": "['Janice Litman Goralnik']",
+            "label": "Joyful"
+        },
+        {
+            "text": "You still can't stand her can you?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I'm sorry man, I tired, I really did.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        },
+        {
+            "text": "But, hey, look, you know the good thing is, is that we spent the whole day together and I survived, and what's even more amazing, so did she. It was bat day at Shea Stadium.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, I guess that's something.",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "No man, that's huge! Now, I know I can stand to be around her, which means I get to hang out with you, which is kinda the whole point, anyway.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, hey, Chandler, we, ah, we stopped by the coffee shop and ran into Ross.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh God!",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Hey, if it makes you feel any better, I do it too.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Really?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh yeah, I always picture your Mom when I'm having sex.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Hi, Dad, what are you doing here?",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I don't, I just, I just like the smell of them. So, uh, what are you really doing here Dad?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well, I just wanted to make sure you were okay.",
+            "speaker": "['Jack Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "I saw Richard.",
+            "speaker": "['Jack Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Oh.",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "So, how are you doing?",
+            "speaker": "['Jack Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I'm fine, just a little tired, I'm okay. How's Richard doing?",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "You don't wanna know.",
+            "speaker": "['Jack Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No, I really, really do.",
+            "speaker": "['Monica Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Well, he's doing terrible!",
+            "speaker": "['Jack Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Really!",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Worse than when he broke up with Barbara.",
+            "speaker": "['Jack Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "You're not just saying that are you?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No, the man is a mess.",
+            "speaker": "['Jack Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Was he crying?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Jack Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Maybe.",
+            "speaker": "['Jack Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I think so.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Yes! Yes! Yes! Yes! Awww!",
+            "speaker": "['The Guys']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "We will.",
+            "speaker": "['The Guys']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Okay, Rachel, you wanna put the marshmellows in concentric circles.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No Mon, you want to put them in concentric circles. I want to do this.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Every year.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "We should defiantly play football more often. Maybe there's a like league we could join or something.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Isn't there a national football league.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yes. Yes, there is, they play on Sundays and Monday nights.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh shoot! I work Monday nights.",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        },
+        {
+            "text": "Umm, this stuffing is amazing. Do you think we should bring them some?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "When they're hungry enough, they'll come in.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Let go!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "No! You let go!",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "No!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Hey! It's starting to snow.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Gimme the this!",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Let go!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "So who's idea was it to put everybody in the diner on skates?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, some idiot customer put a suggestion in the suggestion box.",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh my God, they took my idea!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "That was you?!",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah! Okay, here you go.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Rachel, I made you a cocoa.",
+            "speaker": "['Gunther']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh my God, are you guys okay?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Scared"
+        },
+        {
+            "text": "Are you all right?",
+            "speaker": "['Gunther']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh my.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        }
+    ],
+    [
+        {
+            "text": "Hey.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I'm gonna be on TV!!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "No way!",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh my God! Who's gonna watch that?!",
+            "speaker": "['Chandler Bing']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Thanks. You ready to go?",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Saw a girl with that vest.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Thanks.",
+            "speaker": "['Chandler Bing']",
+            "label": "Powerful"
+        }
+    ],
+    [
+        {
+            "text": "Hi!",
+            "speaker": "['Peter Becker']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Wow! Skates!",
+            "speaker": "['Peter Becker']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well...",
+            "speaker": "['Peter Becker']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, sure, that'd be great.",
+            "speaker": "['Peter Becker']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Regular or decaf?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ah, which ever is closest.",
+            "speaker": "['Peter Becker']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "['Monica Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "So ask me what I did today.",
+            "speaker": "['Peter Becker']",
+            "label": "Neutral"
+        },
+        {
+            "text": "So what did you do today Pete?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What?! Oh.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Can you believe he just offered me a restaurant?",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "And you're still not attracted to him at all?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, please.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "What? Honey.",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Oh God, I'm so sorry.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "I know.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ow!!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh God!",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Hey, you guys! Guess what?",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Got a job on a river boat?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Right.",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "You like it right?",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Yeah, come here!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What-what was it you were gonna tell us?",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah. Oh! Was how you invented the cotton gin?!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Okay, good bye!",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "Umm, oh, about three months.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey!!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I got you something! Open it! Open it!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Okay. It's a chicken.",
+            "speaker": "['Chandler Bing']",
+            "label": "Mad"
+        },
+        {
+            "text": "It's cute, huh?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Whoa-whoa-whoa, you guys, do you know anything about chicks?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Fowl? No. Women? Nooo.",
+            "speaker": "['Chandler Bing']",
+            "label": "Sad"
+        },
+        {
+            "text": "Oh, well no problem there.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Easy Lenny.",
+            "speaker": "['Chandler Bing']",
+            "label": "Powerful"
+        }
+    ],
+    [
+        {
+            "text": "Oww!",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Wow! That aspirin dance really works!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oww!",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        },
+        {
+            "text": "Oh my God, is that still...",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I'm fine, I'm fine.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "No you're not.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Yes I am!",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Rach!",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Look, I'm fine. Watch. Look at that. Whoa-whoa!",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Rach...",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Rachel...",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Look, either help me or go.",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Fine. I'll go.",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Sure. I'll help you.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Ohh.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay. Let's use this brush.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay. This stuff?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "All right.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oke-dokey.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh-ho!",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Sorry.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Hey! That's just poking me in the eye!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Sorry, I'm sorry. Close, close, close...",
+            "speaker": "['Ross Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Okay, just sweep it.",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "I'm sweeping...",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Right.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Sweep, sweep....",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay, now make it even, 'cause we don't...",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "What? What?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Blow it.",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Sophisticated like a hooker?",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "Hey!",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey, guess what I'm doing tonight.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Sad"
+        },
+        {
+            "text": "I'm checking out the restaurant with Pete.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Ohh, Monica, I am so excited for you.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I know.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ooh, I have to tell you something.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "But I can't tell you.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Powerful"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Does it have to do with Joey?",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Does it involve travel?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Noo!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Does it involve clogs?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, wait, wait. Clogs, or claws?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Clogs.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Claws?!",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "No!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What is it?! What about Pete?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I don't know!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I can't!!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay, I gotta go.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hi!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hi!",
+            "speaker": "['Bonnie', 'Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Rachel was just helping me out. My head got all sunburned.",
+            "speaker": "['Bonnie']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Awww.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Thanks a million.",
+            "speaker": "['Bonnie']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, you're welcome a million.",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Okay, I'll see you in our room.",
+            "speaker": "['Bonnie']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oh my God.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "I know.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay, I gotta go.",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Whoa! What?! Why?!",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Well, I-I gotta go break up with Bonnie.",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Here?! Now?!",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Whoa-ho.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Whoa-oh, okay! Yeah, why am I telling you that?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "I don't know.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, yeah. It wasn't every morning.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, making it worse!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "How close?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Scared"
+        },
+        {
+            "text": "I don't even know how that would work!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Well, we were...",
+            "speaker": "['Phoebe Abbott']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I'm not asking!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Wait!",
+            "speaker": "['Phoebe Abbott']",
+            "label": "Sad"
+        },
+        {
+            "text": "I don't ever want to see you again!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Sad"
+        },
+        {
+            "text": "Umm, where's my purse?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "Shoot! We're out of soda.",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh, I'll go out and get you some.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Really?!",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "I found a dried up seashores.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Sweety, what are you talking about?",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "No. I'm just, I wanna, I need to be alone.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Monica!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "It's over.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh, was it awful?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I wrote you a letter.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ohh! Thank you! I like mail.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Oh. Oh-oh.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey! What happened to you? Why didn't you come up?",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Done!",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "You just finished?",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "So umm, does it?",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "I'm sorry.",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Does it?",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Are you sure?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, sure! I'm sure.",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "I know.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Ennnh.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I've got canned goods.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Excellent hole, Joe.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh no! No!! My hole!!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Ow!! Ow!!!",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "What?! What?!! What is it?!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "It's like two miles!",
+            "speaker": "['Monica Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Yeah, and I'm a little tired from digging the hole.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oh damn the jellyfish. Damn all the jellyfish!",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "We've got to do something!",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "What?! What is it?!",
+            "speaker": "['Monica Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "You're gonna have to pee on it.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What?!! Gross!!",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well forget it! It doesn't hurt that baaad!!!!",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hey!",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "How was the beach?",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Nothing, I don't know.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "What happened?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Nothing. I'm gonna take a shower.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Me too!!",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Me too.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "It does. It really and truly does.",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "It so does not!!!",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        }
+    ],
+    [
+        {
+            "text": "No?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "It's between us and the sea, Ross!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "So, thank you for the delicious dinner.",
+            "speaker": "['Cheryl']",
+            "label": "Joyful"
+        },
+        {
+            "text": "You're welcome for a delicious dinner.",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Hey what are you guys looking at?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ross and the most beautiful girl in the world.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Yeah, come to papa.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I know!",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Okay, but that's, like, the easiest era.",
+            "speaker": "['Chandler Bing']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Fine by me; hope she wins.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Huh...",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Um, would you like to come in?",
+            "speaker": "['Cheryl']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Did homo-erectus hunt with wooden tools?",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "According to recent findings!",
+            "speaker": "['Cheryl']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Here Mitzi! Here Mitzi!",
+            "speaker": "['Cheryl']",
+            "label": "Scared"
+        },
+        {
+            "text": "Mitzi is.....",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Cheryl']",
+            "label": "Scared"
+        },
+        {
+            "text": "I'd rather not.",
+            "speaker": "['Cheryl']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oh, yeah, why not?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "Oh, is everything in the car?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yes. Did you settle the bill?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No. I hate this part.",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Oh, look what we almost left.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "No, that's not mine.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, good. Thank you.",
+            "speaker": "['Mrs. Burkart']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Dear?",
+            "speaker": "['Mrs. Burkart']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Just the matter of ...payment?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Jack used to handle the finances!",
+            "speaker": "['Mrs. Burkart']",
+            "label": "Sad"
+        }
+    ],
+    [
+        {
+            "text": "But Mon, you have to get our money!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay. So what do you.... you think she's faking?",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Phoebe, she sounded pretty upset to me.",
+            "speaker": "['Monica Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "She seems fine now.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "...emblem of the land I love. The home of....",
+            "speaker": "['Mrs. Burkart']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Yeah.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Wow. Thanks. So, uh, what happened?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What kind of smell?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Powerful"
+        },
+        {
+            "text": "I don't know. Soap?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "You wanna see her again, right?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Yeah, okay you're right.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "It's, uh... it's endearing, really.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "Any luck?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Aw, honey, that's so sweet.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah? You don't think it's just pathetic?",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oh! Pathetic!",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Where?",
+            "speaker": "['Chandler Bing']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Our place, the hall! I...",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "You didn't get the money, did you?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Come on along and listen to...",
+            "speaker": "['Mrs. Burkart']",
+            "label": "Scared"
+        },
+        {
+            "text": "Okay, Widow!",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Scared"
+        },
+        {
+            "text": "...the lullabye of...",
+            "speaker": "['Mrs. Burkart']",
+            "label": "Sad"
+        },
+        {
+            "text": "All right. I'll get my bag.",
+            "speaker": "['Mrs. Burkart']",
+            "label": "Mad"
+        },
+        {
+            "text": "Good.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Hey!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "['Chandler Bing', 'Joey Tribbiani', 'Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I'm sorry I'm late, did I miss anything?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Joey stuffing 15 Oreos in his mouth.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "15? Your personal best!",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Where were you?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Oh, yeah! How did you meet her?",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oh, which museum?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Powerful"
+        },
+        {
+            "text": "No, answer his.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Done! I did it! Heh, who's stupid now?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Powerful"
+        }
+    ],
+    [
+        {
+            "text": "I didn't think you were gay. I do now.",
+            "speaker": "['Drew']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "See my friend-my friend, Rachel, she wants to be set up.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Ahh, I just got out of a big relationship, I'm not looking for any thing serious.",
+            "speaker": "['Drew']",
+            "label": "Scared"
+        },
+        {
+            "text": "Whoa-whoa-whoa-whoa! Is this, hot Rachel, that you took to the Christmas party, Rachel?",
+            "speaker": "['Mike']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, by the way, that is her full name.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh wow! I'm free for her!",
+            "speaker": "['Mike']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, wait a second! I didn't say I wasn't free!",
+            "speaker": "['Drew']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hold on, y'know I just got a box of Cubans, maybe I bring them by your office around uh, five?",
+            "speaker": "['Drew']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Well, I don't really know what that is, but let's!!",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Oh, wow! I should get going. I-I got a date tonight.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh yeah! With who?",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "You know that girl I told you about who lives up in Poughkeepsie?",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Chandler Bing']",
+            "label": "Powerful"
+        },
+        {
+            "text": "If she's no fun, why do you want to date her at all?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey, man!",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Hey! Ooh, how was your first day working at the restaurant?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Damn!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Powerful"
+        }
+    ],
+    [
+        {
+            "text": "Hey.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey, what happened to your fancy chef's jacket?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "You got it! Oh-oh!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "What are you doing?!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "It's still a tiny bit on fire there.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "Thanks. I think you got it!",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Chandler!! You have the best taste in men!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, like father, like son.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, y'know, possibly. You didn't tell him that, though? Right?",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Ummmmmmmm, no.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "You told this guy that I was looking for a fling?! You don't tell the guy that!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "Hey, Joey, could you pass the cheese?",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey, dragon! Here's your tips from Monday and Tuesday.",
+            "speaker": "['A Waiter']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "There's like-there's like 300 bucks in this one!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.",
+            "speaker": "['The Waiter']",
+            "label": "Scared"
+        },
+        {
+            "text": "Because we can remember them.",
+            "speaker": "['The Waiter']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well, sure, that too.",
+            "speaker": "['The Waiter']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Okay, forget the specials for a minute. Umm, all right here's the thing, for the last two weeks I have umm, tried really hard to create a positive atmosphere...",
+            "speaker": "['Monica Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Can't hear you!",
+            "speaker": "['The Waiter']",
+            "label": "Powerful"
+        },
+        {
+            "text": "No ma'am.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Hey! He has a name, it's Dragon. Do you wanna know your name? Check your hat. We did the hat right?",
+            "speaker": "['The Waiter']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "What the hell happened?!",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Joey, we had a deal. That-that's why you're here! I've got to fire you!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "What kinda things have you been saying?",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Well nothing yet, they really hate you and I want to fit in.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Happy, happy Chanukah, Chandler and Monica. Very merry...",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, y'know, y'know what Pheebs?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I'm not Jewish, so...",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Bad dream?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I wasn't sleeping.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh yeah, then uh, what was Phoebe's song about?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "The one with the cat. I gotta go, I've got another date.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "So, did you pick one yet?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Y'know, you're right. Thank you.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Umm, well I had a similar problem when I lived in Prague.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Prague?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "There's sooo much you don't know.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "I did! I absolutely did!",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "You idiot!!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "I'm sure you're right, but why?",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Oh, man. I'm sorry, I'm so-so sorry.",
+            "speaker": "['Chandler Bing']",
+            "label": "Sad"
+        },
+        {
+            "text": "Y'know, you should never be allowed to talk to people!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "I know! I know!",
+            "speaker": "['Chandler Bing']",
+            "label": "Sad"
+        },
+        {
+            "text": "Oh! See just I'm right back where I started! Aww, this sucks! Being alone, sucks!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Really?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah! You graduated Magma Ku Laude, right?",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "No.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Cute guys in little shorts? Sure.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, actually it's a hockey team, so it's angry Canadians with no teeth.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well that sounds fun too.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Have you ever been with a woman?",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "What?! Chandler, what is the matter with you?!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "So there is no good time to ask that question.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "I need more swordfish. Can you get me some more swordfish?",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "I don't speak English.",
+            "speaker": "['Kitchen Worker']",
+            "label": "Mad"
+        },
+        {
+            "text": "You did a minute ago!",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Well, I don't know what to tell ya!",
+            "speaker": "['Kitchen Worker']",
+            "label": "Mad"
+        },
+        {
+            "text": "Fine!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Okay! Very funny! Somebody let me out please?! Come on, I'm cold! And covered in marinara sauce! Come on! Let me out!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "You found that handle, did ya?",
+            "speaker": "['The Waiter']",
+            "label": "Powerful"
+        },
+        {
+            "text": "That's not funny.",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Well that's not true.",
+            "speaker": "['The Waiter']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Hey! Chef Geller! Y'know that little speech you made the other day? Well I got a problem with it!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Powerful"
+        },
+        {
+            "text": "You do?",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "You bet I do! I just ah, wasn't listening then, that's all.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Well if you want a problem? I'll give you a problem!",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "What are you gonna do? You're gonna fire me?",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Scared"
+        },
+        {
+            "text": "You bet your ass I'm gonna fire you! Get out of my kitchen! Get out!! All right! Anybody else got a problem? How 'bout you Chuckles? You think this is funny now?",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "No.",
+            "speaker": "['The Waiter']",
+            "label": "Scared"
+        },
+        {
+            "text": "How about if I dance around all covered in sauce? Huh? You think it's funny now?",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "No, it's really good.",
+            "speaker": "['The Waiter']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Good! Now, take those salads to table 4, And you! Get the swordfish! And you! Get a haircut!",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        }
+    ],
+    [
+        {
+            "text": "Last stop, Montreal. This stop is Montreal.",
+            "speaker": "['The Conductor']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I made a bet with myself that you have beautiful eyes. Now that I see them, I win.",
+            "speaker": "['Woman On Train']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "We're at my stop. But would you like to have coffee?",
+            "speaker": "['Woman On Train']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Are we really in Montreal?!",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yes we are. So, coffee?",
+            "speaker": "['Woman On Train']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Coffee sounds great. Wait, so, so you live in Montreal?",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, no. But it's just a two hour ferry ride to Nova Scotia.",
+            "speaker": "['Woman On Train']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Thanks.",
+            "speaker": "['Monica Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yep! Looks like it's gonna be a leeeeean Christmas at the Dragon house this year.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Enough!",
+            "speaker": "['Monica Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Lean-lean-lean!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Sad"
+        }
+    ],
+    [
+        {
+            "text": "So what did he decide? Does your Uncle Nathan get an invite or not?",
+            "speaker": "['Emily Waltham']",
+            "label": "Scared"
+        },
+        {
+            "text": "Ohh, God, nobody likes him, and he's so cheap, he'd never fly to London in a million years. Yeah, invite him? Hey, did I do these neat enough?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Yeah, they're fine.",
+            "speaker": "['Emily Waltham']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah?",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "If anyone asks, we'll just say Ben addressed them. Oh! So you invited Rachel then?",
+            "speaker": "['Emily Waltham']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Sure. Why not?",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Really?",
+            "speaker": "['Emily Waltham']",
+            "label": "Scared"
+        },
+        {
+            "text": "Yeah?",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "I don't think I'd be comfortable with any of my old lovers there.",
+            "speaker": "['Emily Waltham']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Oh, no-no, y'know I absolutely adore Rachel it's just that, well it might be a awkward for you. But it's absolutely your decision. More tea?",
+            "speaker": "['Emily Waltham']",
+            "label": "Sad"
+        },
+        {
+            "text": "Yeah sure.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Earl Grey?",
+            "speaker": "['Emily Waltham']",
+            "label": "Mad"
+        },
+        {
+            "text": "Huh? Yeah, fine, invite whoever you want.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "I don't want to be single, okay? I just... I just- I just wanna be married again!",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "And I just want a million dollars!",
+            "speaker": "['Chandler Bing']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Rachel?!",
+            "speaker": "['Monica Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?",
+            "speaker": "['Monica Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Hi, sure!",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Hi.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "I knew.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "You did! Oh.... I always figured you just thought I was Monica's geeky older brother.",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "I did.",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here-but do you think it would be okay if I asked you out? Sometime? Maybe?",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Yeah, maybe...",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Okay... okay, maybe I will...",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        }
+    ],
+    [
+        {
+            "text": "See, I see.... big passion in your future.",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Really?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "I do.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh Ross, you're so great.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "It's never gonna happen.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hey, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Okay. Umm, for a while now, I've been wanting to, um....",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Ohhh!!!!",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Yes, yes, that's right...",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, look at the little cat! Look at it!",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What? Ow!",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "All right, listen, missy. If you want this cart, you're gonna have to take me with it!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Yes! Did you see that?",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "You were incredible! Brand new woman, ladies and gentlemen.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I could not have done this without you.",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Ok, um, uh, more clothes in the dryer? I'm fine, I'm fine.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        }
+    ],
+    [
+        {
+            "text": "You had no right to tell me you ever had feelings for me.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        },
+        {
+            "text": "I was doing great with Julie before I found out about you.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "The point is I... I don't need this right now, OK. It, it's too late, I'm with somebody else, I'm happy. This ship has sailed.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Alright, fine, you go ahead and you do that, alright Ross.",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Fine.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "'Cause I don't need your stupid ship.",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Good.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Good.",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        }
+    ],
+    [
+        {
+            "text": "Well neither do I!",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Is this about Mark?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Oh my God.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Okay, it's not, it's not.",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Oh my God. I cannot keep having this same fight over and over again, Ross, no, you're, you're, you're making this too hard.",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Oh I'm, I'm making this too hard. Okay, what do you want me to do.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "I don't know, I don't know. Urrrgh! Look, maybe we should take a break.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "No. A break from us.",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        }
+    ],
+    [
+        {
+            "text": "Do I know why we're rushing?",
+            "speaker": "['Chloe']",
+            "label": "Scared"
+        },
+        {
+            "text": "That's so great for you guys!",
+            "speaker": "['Chloe']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah!",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Good luck, with your girlfriend.",
+            "speaker": "['Chloe']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh, thank you. Hey, hey. Rachel!!!!",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Hi. Ohhh, you got my message.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah, oh hey, you are right on time.",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "So what do you say? Can I be your girlfriend again?",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Yes, you can, very much.",
+            "speaker": "['Ross Geller']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Ahhhh!!",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "Y'know what, I want you to leave! Get outta here!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "No!!",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Just get out! Now!!",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "Okay! All right! How was she?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Uh-oh.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "What?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Was she good?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Don't answer that.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "She was...",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Awful! Horrible!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        },
+        {
+            "text": "She was not good. Not good.",
+            "speaker": "['Chandler Bing']",
+            "label": "Neutral"
+        },
+        {
+            "text": "She was nothing compared to you.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "She, she was different.",
+            "speaker": "['Ross Geller']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Ewwwww!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Uh-oh.",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Good different?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Nobody likes change.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "What? Okay, okay, okay, okay.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "You seem to really like her.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Ross, that girl just spent the entire evening talking to your friends, asking to hear stories about you, looking through Monica's photo albums, I mean you don't do that if you're just in it for two weeks.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "You think?",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Yeah, you got like 14 hours until she has to be at the airport, and you're sitting here in the hallway with a 28-year-old cheerleader with a fat lip.",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Hey, you're right.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Who's this from?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, that's Ross's.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh... Oh my God. He remembered.",
+            "speaker": "['Rachel Green']",
+            "label": "Powerful"
+        },
+        {
+            "text": "Remembered what?",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, it's so pretty. This must have cost him a fortune.",
+            "speaker": "['Phoebe Buffay']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I can't believe he did this.",
+            "speaker": "['Monica Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "What did you just say?",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "F-hah.... flennin....",
+            "speaker": "['Chandler Bing']",
+            "label": "Scared"
+        },
+        {
+            "text": "Oh.... my God.",
+            "speaker": "['Rachel Green']",
+            "label": "Joyful"
+        }
+    ],
+    [
+        {
+            "text": "Rach, I got a message from you.",
+            "speaker": "['Ross Geller']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . .",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "You're over me?",
+            "speaker": "['Ross Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Ohhhhhhhh God.",
+            "speaker": "['Rachel Green']",
+            "label": "Peaceful"
+        },
+        {
+            "text": "Wha... you're uh, you're, you're over me?",
+            "speaker": "['Ross Geller']",
+            "label": "Sad"
+        },
+        {
+            "text": "Ohh, ohh.",
+            "speaker": "['Rachel Green']",
+            "label": "Sad"
+        },
+        {
+            "text": "When, when were you... under me?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Well, basically, lately, I've uh, I've uh, sort of had feelings for you.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "OK, I need to lie down.",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        }
+    ],
+    [
+        {
+            "text": "He broke up with Julie. Well, go hug her, for god's sakes.",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Mad"
+        },
+        {
+            "text": "Really?",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Really. It's always been you, Rach.",
+            "speaker": "['Ross Geller']",
+            "label": "Neutral"
+        },
+        {
+            "text": "Oh, god.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "Ohhh.",
+            "speaker": "['Chandler Bing', 'Joey Tribbiani']",
+            "label": "Sad"
+        }
+    ],
+    [
+        {
+            "text": "Y'know, hey! You're the one who ended it, remember?",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "Yeah, because I was mad at you, not because I stopped loving you!",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "You still love me?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Noo.",
+            "speaker": "['Rachel Green']",
+            "label": "Mad"
+        },
+        {
+            "text": "What does this mean? What do you, I mean do you wanna, get back together?",
+            "speaker": "['Ross Geller']",
+            "label": "Scared"
+        },
+        {
+            "text": "Noo! Maybe! I, I don't know.",
+            "speaker": "['Rachel Green']",
+            "label": "Scared"
+        },
+        {
+            "text": "What?!",
+            "speaker": "['Ross Geller']",
+            "label": "Mad"
+        },
+        {
+            "text": "I just, I feel, I-I just...",
+            "speaker": "['Rachel Green']",
+            "label": "Neutral"
+        }
+    ],
+    [
+        {
+            "text": "It's better! You can't go to a museum in your underwear!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Well, You could, but... probably just the one time.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "I bet we could get videos of all the sites, get a VCR in our hotel room... we'd never even have to go outside!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        },
+        {
+            "text": "If we do that, we gotta get Die Hard.",
+            "speaker": "['Chandler Bing']",
+            "label": "Joyful"
+        },
+        {
+            "text": "Oh-ho! I bet the British version is gooooood!",
+            "speaker": "['Joey Tribbiani']",
+            "label": "Joyful"
+        }
+    ]
+]
