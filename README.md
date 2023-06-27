@@ -1,4 +1,4 @@
-# EMC-ERC
+# ERCMC
 
 This repository contains the codes and datasets for paper "Exploiting Pseudo Future Contexts for Emotion Recognition in Conversations".
 
