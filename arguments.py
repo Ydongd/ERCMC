@@ -38,7 +38,7 @@ _MODEL_CLASSES = {
 
 def get_args_parser():
 
-    parser = argparse.ArgumentParser(description="Command line interface for EMC-ERC.")
+    parser = argparse.ArgumentParser(description="Command line interface for ERCMC.")
     
     # Required parameters
     parser.add_argument(
